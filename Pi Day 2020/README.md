@@ -15,3 +15,5 @@ Above the sliders contains the approximated value of pi from the experiment.
 "???" will not animate or display anything, but will perform the experiment with the given parameters 1000 times and display the resulting information to the terminal.
 
 Made in Eclipse.
+
+More details about the experiment can be found here: https://en.wikipedia.org/wiki/Buffon%27s_needle_problem
