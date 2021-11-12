@@ -8,4 +8,4 @@ The player can move using the W/S keys and can rotate using A/D.
 
 Currently, there is no collision and the player can traverse through the walls.
 
-Made in JCreator
+Created in JCreator
