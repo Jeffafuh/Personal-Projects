@@ -1,0 +1,69 @@
+/**
+ * @(#)Grid.java
+ *
+ *
+ * @author
+ * @version 1.00 2019/11/13
+ */
+import java.awt.Color;
+import java.awt.Graphics;
+import java.awt.Image;
+import java.io.File;
+import javax.imageio.ImageIO;
+import java.util.*;
+import static java.lang.System.*;
+
+public class Grid extends Object{
+	private final static int size=50;
+	private int row;
+	private int col;
+	private int x;
+	private int y;
+	private ArrayList<cell> group;
+	private flagButton button;
+
+    public Grid() {
+    }
+
+    public Grid(int w,int h,int c,int r)
+    {
+    	col=w/size;
+    	row=h/size;
+    	x=c;
+    	y=r;
+    	group=new ArrayList<cell>();
+    	for(int i=0; i<row;i++)
+    		for(int j=0;j<col;j++)
+    			group.add(new cell(i,j,size,x,y));
+    	button=new flagButton(700,700,size);
+    }
+
+    public void draw(Graphics window)
+    {
+    	for(cell c:group)
+    	{
+    		c.draw(window);
+    	}
+    	button.draw(window);
+    }
+
+    public void reveal(int i, int j)
+    {
+    	for(int k=0;k<group.size();k++)
+    	{
+    		cell c=group.get(k);
+    		if(i>c.getTrueX()&&i<c.getTrueX()+size)
+    			if(j>c.getTrueY()&&j<c.getTrueY()+size)
+    			{
+    				c.reveal();
+    			}
+    	}
+    }
+
+    public boolean checkButton(int i,int j)
+    {
+
+    }
+
+
+}
