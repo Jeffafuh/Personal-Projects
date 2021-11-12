@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Nodes</label>
+		<id>260</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Nodes.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Nodes.jcp</path>
+		</project>
+	</projects>
+</workspace>
