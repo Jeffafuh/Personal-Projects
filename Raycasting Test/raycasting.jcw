@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>raycasting</label>
+		<id>1828</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>raycasting.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>raycasting.jcp</path>
+		</project>
+	</projects>
+</workspace>
