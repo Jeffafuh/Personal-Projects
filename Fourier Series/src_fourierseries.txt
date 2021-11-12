@@ -1,0 +1,8 @@
+"G:\\My Drive\\Programs\\fourierSeries\\src\\button.java"
+"G:\\My Drive\\Programs\\fourierSeries\\src\\complexNumber.java"
+"G:\\My Drive\\Programs\\fourierSeries\\src\\coordinatePlane.java"
+"G:\\My Drive\\Programs\\fourierSeries\\src\\display.java"
+"G:\\My Drive\\Programs\\fourierSeries\\src\\drawingPlane.java"
+"G:\\My Drive\\Programs\\fourierSeries\\src\\fourierSeries.java"
+"G:\\My Drive\\Programs\\fourierSeries\\src\\slider.java"
+"G:\\My Drive\\Programs\\fourierSeries\\src\\vector.java"
