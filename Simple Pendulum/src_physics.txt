@@ -1,0 +1,6 @@
+"G:\\My Drive\\Programs\\physics\\coordinatePlane.java"
+"G:\\My Drive\\Programs\\physics\\display.java"
+"G:\\My Drive\\Programs\\physics\\physicsRunner.java"
+"G:\\My Drive\\Programs\\physics\\slider.java"
+"G:\\My Drive\\Programs\\physics\\swingThing.java"
+"G:\\My Drive\\Programs\\physics\\uiElements.java"
