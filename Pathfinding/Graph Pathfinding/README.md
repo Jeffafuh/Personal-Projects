@@ -5,11 +5,9 @@ An interactive demo of pathfinding algorithms using traditional graphs.
 
 This project was created in JCreator using JDK 1.8.
 
-Either import the files into your preferred Java IDE or compile all of the .java files together. 
+Either import the files into your preferred Java IDE or compile all of the .java files together. Once compiled, "nodeRunner.java" contains the main method to be executed to run the program.
 
 ## Description
-Once compiled, "nodeRunner.java" contains the main method to be executed to run the program.
-
 Once run, displays a blank screen with various buttons along the bottom.
 
 ### Buttons
