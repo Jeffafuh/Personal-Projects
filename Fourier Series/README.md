@@ -5,7 +5,7 @@ An interactive demo on Fourier Series inspired by 3b1b.
 
 This project was created in JCreator as a workspace using JDK 1.8.
 
-Either import the workspace in JCreator or compile all of the .java files together.
+Either import the workspace in JCreator or compile all of the .java files together located in /src/.
 Once compiled, "fourierSeries.java" contains the main method to be executed to run the program.
 
 ## Description
