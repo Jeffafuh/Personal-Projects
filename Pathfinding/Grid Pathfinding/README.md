@@ -23,5 +23,3 @@ Displayed on the bottom are four buttons used to manipulate the grid.
 "FLOOD" performs a variation of Dijkstra's algorithm where all tiles share a weight of 1 (moves in the 4 cardinal directions).
 
 "GREED" performs a greedy algorithm that always takes the step that minimizes the distance from the start and end point (moves in all 8 cardinal directions).
-
-Created in JCreator.
