@@ -1,3 +1,0 @@
-"H:\\Pathfinding stuff\\pathFinder\\src\\display.java"
-"H:\\Pathfinding stuff\\pathFinder\\src\\pathFinder.java"
-"H:\\Pathfinding stuff\\pathFinder\\src\\test.java"
