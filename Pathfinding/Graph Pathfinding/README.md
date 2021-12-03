@@ -1,7 +1,18 @@
+# Graph Pathfinding
 An interactive demo of pathfinding algorithms using traditional graphs.
 
-Once compiled, "nodeRunner.java" contains the main method to be executed to run the program. Once run, displays a blank screen with various buttons along the bottom.
+## Running The Project
 
+This project was created in JCreator using JDK 1.8.
+
+Either import the files into your preferred Java IDE or compile all of the .java files together. 
+
+## Description
+Once compiled, "nodeRunner.java" contains the main method to be executed to run the program.
+
+Once run, displays a blank screen with various buttons along the bottom.
+
+### Buttons
 "ADD" will add a node at a random location on the screen with a random color. Using left click on a node will select the node, indicated by a blue outline and cross on the node.
 
 Once at least two nodes have been selected, pressing "CONNECT" will create an edge between the nodes with a default weight of one.
@@ -23,5 +34,3 @@ Green edges indicate an edge found by the algorithm during the initial search, b
 Once finished editing a weight, the enter key can be pressed to commit the weight.
 
 "DIJKSTRA" is currently unimplemented and does nothing.
-
-Created in JCreator.
