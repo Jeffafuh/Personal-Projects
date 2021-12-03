@@ -2,9 +2,9 @@
 An interactive model for the phase space of a single pendulum inspired by 3b1b.
 
 ## Running The Project
-This project was created in JCreator as a workspace using JDK 1.8.
+This project was created in JCreator using JDK 1.8.
 
-Either import the workspace in JCreator or compile all of the .java files together located in /src/. Once compiled, "physicsRunner.java" contains the main method to be executed to run the program.
+Compile all of the .java files together located in /src/. Once compiled, "physicsRunner.java" contains the main method to be executed to run the program.
 
 ## Description
 Once run, the program will display a grid used to model the pendulum's movement.
