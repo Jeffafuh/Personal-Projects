@@ -1,9 +1,19 @@
-An interactive demo on pathfinding algorithms on a grid.
+# Grid Pathfinding Demo
+An interactive demo of pathfinding algorithms on a grid.
 
-Once compiled, "pathFinder.java" contains the main method to be executed to run the program. Once run, displays a grid of blank tiles.
+## Running the Project
+This project was created in JCreator as a workspace using JDK 1.8.
+
+Either import the workspace in JCreator or compile all of the .java files together located in /src/. Once compiled, "pathFinder.java" contains the main method to be executed to run the program.
+
+## Description
+Once run, displays a grid of blank tiles.
+
 Left clicking (or drag left click) can be used to create "walls/obstacles" on the grid, indicated by a red tile.
+
 Right clicking can be used to set the start/end points for the pathfinding algorithms.
 
+### Buttons
 Displayed on the bottom are four buttons used to manipulate the grid. 
 
 "CLEAR" empties the entire grid to a blank state and clears all marks.
