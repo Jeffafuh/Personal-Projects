@@ -3,9 +3,9 @@ It's Minesweeper.
 
 ## Running The Application
 
-This project was created in JCreator as a workspace using JDK 1.8.
+This project was created in JCreator using JDK 1.8.
 
-Either import the workspace in JCreator or compile all of the .java files together located in /src/.
+Either import the files into your preferred Java IDE or compile all of the .java files together located in /src/.
 Once compiled, "MineSweeperRunner.java" contains the main method to be executed to run the program.
 
 ## Description
