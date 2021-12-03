@@ -2,9 +2,9 @@
 An interactive demo of pathfinding algorithms on a grid.
 
 ## Running the Project
-This project was created in JCreator as a workspace using JDK 1.8.
+This project was created in JCreator using JDK 1.8.
 
-Either import the workspace in JCreator or compile all of the .java files together located in /src/. Once compiled, "pathFinder.java" contains the main method to be executed to run the program.
+Compile all of the .java files together located in /src/. Once compiled, "pathFinder.java" contains the main method to be executed to run the program.
 
 ## Description
 Once run, displays a grid of blank tiles.
