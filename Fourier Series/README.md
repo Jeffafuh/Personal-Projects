@@ -11,6 +11,7 @@ Once compiled, "fourierSeries.java" contains the main method to be executed to r
 ## Description
 
 On the left side of the screen contains buttons to create and manipulate vectors on the plane (animated on screen with the equation(s) on the top) as well as display various graphs.
+
 Most notably, the "draw!" button allows the user to create a drawing, and once done, will calculate a Fourier Series to approximate the drawing.
 The plane is scalable (mousewheel) and moveable (dragging w/ mouse).
 
