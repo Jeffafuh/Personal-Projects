@@ -1,6 +1,14 @@
+# Simple Pendulum Demo
 An interactive model for the phase space of a single pendulum inspired by 3b1b.
 
-Once compiled, "physicsRunner.java" contains the main method to be executed to run the program. Once run, the program will display a grid used to model the pendulum's movement.
+## Running The Project
+This project was created in JCreator as a workspace using JDK 1.8.
+
+Either import the workspace in JCreator or compile all of the .java files together located in /src/. Once compiled, "physicsRunner.java" contains the main method to be executed to run the program.
+
+## Description
+Once run, the program will display a grid used to model the pendulum's movement.
+
 The x-axis represents the angle of the pendulum relative to the vertical and the y-axis represents how fast, or the velocity, that the angle is changing at.
 The current position of the pendulum is indicated on the plane as a yellow point and is also displayed at the top left of the screen.
 
@@ -13,5 +21,3 @@ The top "dt" slider changes the size of the next "step" for the pendulum to be c
 While greater values of dt cause the pendulum to move faster, this also causes the calculations to become increasingly inaccurate (eventually resulting in the pendulum gaining energy).
 
 The bottom "air resistance" slider changes the coefficient of the damping force experienced by the system.
-
-Created in JCreator.
