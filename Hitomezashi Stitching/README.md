@@ -1,10 +1,10 @@
-# Buffon's Needle Demo
-Interactive simulation of Buffon's Needle problem to approximate pi made in celebration of the pi-day on 3/14/2020.
+# Hitomezashi Stitching
+My attempt of generalizing Hitomezashi stitching patterns to the entire family of regular n-gons.
 
 ## Running The Project
-This project was created as an Eclipse project using JavaSE 1.8.
+This project was created in Python 3.8 using Manim Community v0.14.0 (The Manim Community Developers. (2022). Manim – Mathematical Animation Framework (Version v0.14.0) [Computer software]. https://www.manim.community/)
 
-Once the project has been imported into Eclipse, "graphicsRunner.java" is the file that contains the main method to be exected and run the program. If the program does not run, please make sure that "Enable project specific settings" is turned on under the compiler settings.
+For more information on how to run a Manim project to create a video, please visit [their website](https://www.manim.community/).
 
 ## Description
 Once run, there are 3 main buttons and 3 main sliders to mess around with.
