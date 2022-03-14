@@ -6,6 +6,8 @@ This project was created as an Eclipse project using JavaSE 1.8.
 
 Once the project has been imported into Eclipse, "graphicsRunner.java" is the file that contains the main method to be exected and run the program. If the program does not run, please make sure that "Enable project specific settings" is turned on under the compiler settings.
 
+Alternatively, you can view (a low resolution) demo of this project in my [twitter post](https://twitter.com/jeffafuhh/status/1371223326245466125).
+
 ## Description
 Once run, there are 3 main buttons and 3 main sliders to mess around with.
 
