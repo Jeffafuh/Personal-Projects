@@ -15,6 +15,8 @@ Contains all of the files used to generate the completed videos demonstrating th
 ### *Finished Videos*
 If you do not wish to run the scripts yourself, completed videos can be found here available in 4k and 1080p. Construction Demo demonstrates the steps of my construction I used to generalize Hitomezashi stitching from a square to any n-gon. Main Demo demonstrates the actual stitching patterns in action for n-gons n=3 to n=8 (excluding n=5).
 
+Alternatively, you can view the completed videos in my [twitter post](https://twitter.com/jeffafuhh/status/1491990541894103042)
+
 ## More Information
 Initial inspiration and more information regarding Hitomezashi stitching can be found here:
 - https://www.youtube.com/watch?v=JbfhzlMk2eY
