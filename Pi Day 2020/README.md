@@ -1,5 +1,5 @@
 # Buffon's Needle Demo
-Interactive simulation of Buffon's Needle problem to approximate pi made in celebration of the pi-day on 3/14/2020.
+Interactive simulation of Buffon's Needle problem to approximate pi made in celebration of the Pi-day on 3/14/2020.
 
 ## Running The Project
 This project was created as an Eclipse project using JavaSE 1.8.
