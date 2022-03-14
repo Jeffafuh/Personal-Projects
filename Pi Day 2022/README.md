@@ -15,6 +15,8 @@ Contains the main file used to generate the completed videos demonstrating the a
 ### *Finished Videos*
 If you do not wish to run the scripts yourself, completed videos can be found here available in 1080p. CalcPiPolar demonstrates the approximation method using random walks created by generating random angles, whereas CalcPiRectangular uses a lattice-based random walk.
 
+Alternatively, you can view the completed videos in my [twitter post](https://twitter.com/jeffafuhh/status/1503494923076702210)
+
 ## More Information
 Initial inspiration and more information can be found here:
 - https://www.wired.com/2017/03/hey-can-find-pi-random-walk-heres/
