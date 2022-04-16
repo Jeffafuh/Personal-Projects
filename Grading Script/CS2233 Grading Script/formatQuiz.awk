@@ -10,7 +10,7 @@
 # Modify the numStudents as necessary.
 
 BEGIN{
-    numStudents = 45;
+    numStudents = 58;
     FS="\t";
     RS="\t*\r\n";
 }
@@ -29,12 +29,18 @@ NR == 2, NR == numStudents+1{
 
     #print format header
     printf("Point Breakdown:\n");
-    for(i = 0; i < numQ+1; i++)
+    for(i = 0; i < numQ; i++)
     {
         printf("%s: %s\n", qVals[i], $(i+5));
     }
     printf("\n");
 
+    isLate = 0;
+    if( $(numQ+5) == "TRUE" )
+    {
+        isLate = 1;
+        printf("Late Submission - No Credit\n");
+    }
     #output total
     printf("Total: %s\n\n", $(numQ+6));
 
@@ -45,7 +51,7 @@ NR == 2, NR == numStudents+1{
         printf("%s\n", $i);
     }
     #if there are no comments, print out a default message
-    if(numQ+7 > NF)
+    if(numQ+7 > NF && isLate == 0)
     {
         printf("Good work!\n");
     }

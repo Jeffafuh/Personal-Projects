@@ -1,0 +1,1057 @@
+---------------------------
+Adhikari, Ranjit (qls586)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 11
+Q3 (5pts): 3
+Q4 (12pts): 8
+Q5 (4pts): 4
+
+Raw Total: 36
+Final Total: 42
+
+Comments/Feedback:
+Q3 -2: Incorrect inductive step and incorrect termination step (off-by-one)
+Q4.1.b) -1: Missing base case for a_2; Q4.2) -2: Missing initial function call, also incorrect parameters (not one single function); Q4.3) -1: Incorrect matrix multplication
+---------------------------
+---------------------------
+Alvarez, Julian (rxr842)
+
+Point Breakdown:
+Q1 (10pts): 9
+Q2 (11pts): 11
+Q3 (5pts): 3
+Q4 (12pts): 0
+Q5 (4pts): 3
+
+Raw Total: 26
+Final Total: 42
+
+Comments/Feedback:
+Q1) -1: Missing IH, Inductive case, also incorrect base case
+Q3 -2: Incorrect inductive step and incorrect termination step (off-by-one)
+Q4) DNA
+Q5.c) -1: Missing base case
+---------------------------
+---------------------------
+Bartels, Erin (dub332)
+
+Point Breakdown:
+Q1 (10pts): 6
+Q2 (11pts): 10
+Q3 (5pts): 3
+Q4 (12pts): 8
+Q5 (4pts): 4
+
+Raw Total: 31
+Final Total: 42
+
+Comments/Feedback:
+Q1) -4: Missing base case, missing IH and inductive step
+Q2.1.d) -1: Incomplete explanation
+Q3 -2: Incorrect inductive step and incorrect termination step (off-by-one)
+Q4.1) -2: Missing recursive definitions; Q4.2) -1: Function is not recursive; Q4.3) -1: Missing base case
+---------------------------
+---------------------------
+Bitner, Andrew (ons625)
+
+Point Breakdown:
+Q1 (10pts): 0
+Q2 (11pts): 0
+Q3 (5pts): 0
+Q4 (12pts): 0
+Q5 (4pts): 0
+
+Raw Total: 0
+Final Total: 0
+
+Comments/Feedback:
+No Submission
+---------------------------
+---------------------------
+Buckner, Maritza (sop651)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 11
+Q3 (5pts): 5
+Q4 (12pts): 11
+Q5 (4pts): 4
+
+Raw Total: 41
+Final Total: 42
+
+Comments/Feedback:
+Q4.3) -1: Missing base case
+---------------------------
+---------------------------
+Cantu Soto, Alex (bna482)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 10
+Q3 (5pts): 5
+Q4 (12pts): 1
+Q5 (4pts): 0
+
+Raw Total: 26
+Final Total: 42
+
+Comments/Feedback:
+Q2.1.d) -1: Incomplete explanation
+Q4.1.b - Q5) DNA
+---------------------------
+---------------------------
+Castro, Fernando (kwy816)
+
+Point Breakdown:
+Q1 (10pts): 9
+Q2 (11pts): 11
+Q3 (5pts): 3
+Q4 (12pts): 11
+Q5 (4pts): 1
+
+Raw Total: 35
+Final Total: 42
+
+Comments/Feedback:
+Q1) -1: Missing IH, Inductive case, also incorrect base case
+Q3 -2: Incorrect inductive step and missing termination step
+Q4.1.b) -1: Incorrect recursive def., should be *4 not *2
+Q5.1/.2) -1: Missing final answer; Q5.3/.4) DNA
+---------------------------
+---------------------------
+Chavez, Nathan (ysn401)
+
+Point Breakdown:
+Q1 (10pts): 9
+Q2 (11pts): 9
+Q3 (5pts): 3
+Q4 (12pts): 0
+Q5 (4pts): 3
+
+Raw Total: 24
+Final Total: 24
+
+Comments/Feedback:
+Q1) -1: Incorrect base case, incorrect inductive step
+Q2.2) -2: Incorrect odd/even case proofs
+Q3 -2: Incorrect inductive step and missing termination step
+Q4) DNA
+Q5.4) -1: DNA
+---------------------------
+---------------------------
+Colding, Cheyenne (qeb163)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 9
+Q3 (5pts): 3
+Q4 (12pts): 10
+Q5 (4pts): 4
+
+Raw Total: 36
+Final Total: 42
+
+Comments/Feedback:
+Q2.2) -2: Incorrect odd/even case proofs
+Q3 -2: Missing inductive step and termination case
+Q4.2) -2: Incorrect return for base case and missing intial call (also missing something to eat)
+---------------------------
+---------------------------
+Cornejo, Marcella (jyv687)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 10
+Q3 (5pts): 4
+Q4 (12pts): 8
+Q5 (4pts): 4
+
+Raw Total: 36
+Final Total: 42
+
+Comments/Feedback:
+Q2.2) -1: Insufficient explanation for odd case
+Q3) -1: Incorrect termination step (off by one)
+Q4.1.b) -1: Missing base case for a_2; Q4.1.c) -1: Incorrect recursive def.; Q4.2) -1: Missing initial call; Q4.3) -1: Unclear inductive steps
+---------------------------
+---------------------------
+Daliso, David (mrj122)
+
+Point Breakdown:
+Q1 (10pts): 0
+Q2 (11pts): 0
+Q3 (5pts): 0
+Q4 (12pts): 0
+Q5 (4pts): 0
+
+Raw Total: 0
+Final Total: 0
+
+Comments/Feedback:
+No Submission
+---------------------------
+---------------------------
+Dang, Daniel (kpb624)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 11
+Q3 (5pts): 0
+Q4 (12pts): 8
+Q5 (4pts): 3
+
+Raw Total: 32
+Final Total: 42
+
+Comments/Feedback:
+Q3) DNA
+Q4.2) DNA
+Q5.4) -1: Incorrect final formula
+---------------------------
+---------------------------
+Escamilla Rodriguez, Eduardo (zet505)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 11
+Q3 (5pts): 5
+Q4 (12pts): 12
+Q5 (4pts): 4
+
+Raw Total: 42
+Final Total: 42
+
+Comments/Feedback:
+Good work!
+---------------------------
+---------------------------
+Evins, Brandon (sgn849)
+
+Point Breakdown:
+Q1 (10pts): 9
+Q2 (11pts): 9
+Q3 (5pts): 3
+Q4 (12pts): 11
+Q5 (4pts): 3
+
+Raw Total: 35
+Final Total: 42
+
+Comments/Feedback:
+Q1) -1: Incorrect base case, incorrect inductive step
+Q2.1) -1: Incorrect reasoning for inductive step (should be k-2, not k+1); Q2.2) -1: Unclear formatting of proof
+Q3 -2: Incorrect inductive step and incorrect termination step (off-by-one)
+Q4.1.a) -1: Incorrect base case (starts at -7, not -10)
+Q5.1/.2) -1: Missing final answer
+---------------------------
+---------------------------
+Galvan, Joshua (okn886)
+
+Point Breakdown:
+Q1 (10pts): 9
+Q2 (11pts): 11
+Q3 (5pts): 4
+Q4 (12pts): 10
+Q5 (4pts): 4
+
+Raw Total: 38
+Final Total: 42
+
+Comments/Feedback:
+Q1) -1: Incorrect base case
+Q3 -1: Incorrect termination step (off-by-one)
+Q4.1.c) -1: Incorrect recursive def.; Q4.2) -1: Incorrect base case return value
+---------------------------
+---------------------------
+Garcia, Kevin (gfi478)
+
+Point Breakdown:
+Q1 (10pts): 9
+Q2 (11pts): 11
+Q3 (5pts): 3
+Q4 (12pts): 11
+Q5 (4pts): 0
+
+Raw Total: 34
+Final Total: 42
+
+Comments/Feedback:
+Q1) -1: Incorrect base case, incorrect inductive step
+Q3 -2: Incorrect inductive step and incorrect termination step (off-by-one)
+Q4.2) -1: Incorrect base case return value (overcount by 1)
+Q5) DNA
+---------------------------
+---------------------------
+Gilberti, Justin (wye778)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 6
+Q3 (5pts): 2
+Q4 (12pts): 5
+Q5 (4pts): 4
+
+Raw Total: 27
+Final Total: 42
+
+Comments/Feedback:
+Q2.1.d) -3: DNA; Q2.2) -2: Missing inductive step/case
+
+Q3) -3: Incomplete proofs
+Q4.1) -2: Missing recursive definitions; Q4.2) -1: Function is not recursive; Q4.3) DNA
+---------------------------
+---------------------------
+Gonzalez, Ernesto (use450)
+
+Point Breakdown:
+Q1 (10pts): 0
+Q2 (11pts): 10
+Q3 (5pts): 0
+Q4 (12pts): 0
+Q5 (4pts): 0
+
+Raw Total: 10
+Final Total: 10
+
+Comments/Feedback:
+Q2.2) -1: Insufficient explanation for odd case
+Q4.1) -2: Missing most recursive definitions
+Q1, Q3, Q4.2 - Q5) DNA
+---------------------------
+---------------------------
+Gonzalez, Rene (qdr811)
+
+Point Breakdown:
+Q1 (10pts): 6
+Q2 (11pts): 3
+Q3 (5pts): 3
+Q4 (12pts): 10
+Q5 (4pts): 4
+
+Raw Total: 26
+Final Total: 42
+
+Comments/Feedback:
+Q1) -4: Missing proof
+Q2.1.d) DNA Q2.2) DNA
+Q3) -2: Incorrect inductive step, missing termination case
+Q4.1.b) -1: Missing base case for a_2; Q4.2) -1: Missing initial function call
+---------------------------
+---------------------------
+Guajardo, Jose (zga887)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 9
+Q3 (5pts): 4
+Q4 (12pts): 6
+Q5 (4pts): 4
+
+Raw Total: 33
+Final Total: 42
+
+Comments/Feedback:
+Q2.2) -2: Insuffecient odd/even case proofs
+Q3 -1: Incorrect termination step (off-by-one)
+Q4.1.a) -1: Incorrect base case (starts at -7 not -10); Q4.1.b) -1: Incorrect recursive def, missing base case; Q4.3) DNA
+---------------------------
+---------------------------
+Guardiola, Rene (kmu543)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 8
+Q3 (5pts): 0
+Q4 (12pts): 2
+Q5 (4pts): 1
+
+Raw Total: 21
+Final Total: 21
+
+Comments/Feedback:
+Q2.2) -3: Missing Inductive proof
+Q3) DNA
+Q4.1) -2: Missing most recursive definitions
+Q4.2 - Q5.3/.4) DNA
+---------------------------
+---------------------------
+Guzman, Eric (dsc038)
+
+Point Breakdown:
+Q1 (10pts): 0
+Q2 (11pts): 0
+Q3 (5pts): 0
+Q4 (12pts): 0
+Q5 (4pts): 0
+
+Raw Total: 0
+Final Total: 0
+
+Comments/Feedback:
+No Submission
+---------------------------
+---------------------------
+Hammons, Dylan (axe952)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 6
+Q3 (5pts): 4
+Q4 (12pts): 7
+Q5 (4pts): 4
+
+Raw Total: 31
+Final Total: 42
+
+Comments/Feedback:
+Q2.1.d) -3: DNA; Q2.2) -2: Missing inductive step/case
+
+Q3) -1: Missing termination step
+Q4.1) -2: Missing base cases; Q4.2) -2: Missing initial call also function isn't recursive; Q4.3) -1: Incorrect matrix multiplication
+---------------------------
+---------------------------
+Hinojosa, Brandon (xfo404)
+
+Point Breakdown:
+Q1 (10pts): 9
+Q2 (11pts): 6
+Q3 (5pts): 4
+Q4 (12pts): 11
+Q5 (4pts): 0
+
+Raw Total: 30
+Final Total: 42
+
+Comments/Feedback:
+Q1) -1: Incorrect base case, incorrect inductive step
+Q2.2) DNA
+Q3) -1: Incomplete induction step
+Q4.2) -1: Incorrect base case return value (off by one)
+Q5) DNA
+---------------------------
+---------------------------
+Hite, James (kmz023)
+
+Point Breakdown:
+Q1 (10pts): 9
+Q2 (11pts): 7
+Q3 (5pts): 4
+Q4 (12pts): 3
+Q5 (4pts): 4
+
+Raw Total: 27
+Final Total: 42
+
+Comments/Feedback:
+Q1) -1: Incorrect IH substitution
+Q2.1.d) -2: Incomplete inductive step; Q2.2) -2: Incorrect even/odd case proofs
+Q3) -1: Incorrect inductive hypothesis
+Q4.1) -2: Missing base cases; Q4.2) -3: Not an algorithm; Q4.3) DNA
+---------------------------
+---------------------------
+Izaguirre, Aaron (xbo465)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 9
+Q3 (5pts): 5
+Q4 (12pts): 11
+Q5 (4pts): 4
+
+Raw Total: 39
+Final Total: 42
+
+Comments/Feedback:
+Q2.2) -2: Insuffecient odd/even case proofs
+Q4.3) -1: Incorrect base case
+---------------------------
+---------------------------
+Jackson, Riley (wjw247)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 10
+Q3 (5pts): 5
+Q4 (12pts): 9
+Q5 (4pts): 4
+
+Raw Total: 38
+Final Total: 42
+
+Comments/Feedback:
+Q2.1.d) -1: Incorrect expansion of k+1
+Q4.1.b) -1: Missing base case for a_2; Q4.3) -2: Incorrect base case, incorrect matrix multiplication
+---------------------------
+---------------------------
+Jenkins, Alexander (eql690)
+
+Point Breakdown:
+Q1 (10pts): 9
+Q2 (11pts): 9
+Q3 (5pts): 5
+Q4 (12pts): 11
+Q5 (4pts): 2
+
+Raw Total: 36
+Final Total: 42
+
+Comments/Feedback:
+Q1) -1: Incorrect base case, incorrect inductive step
+Q2) -2: Incorrect proofs for both inductive steps
+Q4.2) -1: Incorrect base case return value
+Q5.1/.2) -1: Must start AND end, not OR; Q5.4) DNA
+---------------------------
+---------------------------
+Laguna, Zahid (lhe294)
+
+Point Breakdown:
+Q1 (10pts): 9
+Q2 (11pts): 5
+Q3 (5pts): 4
+Q4 (12pts): 11
+Q5 (4pts): 0
+
+Raw Total: 29
+Final Total: 42
+
+Comments/Feedback:
+Q1) -1: Incorrect base case, incorrect inductive step
+Q2.1.d) -1: Incomplete explanation; Q2.2) DNA
+Q3) -1: Missing inductive step/proof
+Q4.2) -1: Incorrect base case return value (off by one)
+Q5) DNA
+---------------------------
+---------------------------
+Lopez, Isabella (mtd863)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 11
+Q3 (5pts): 4
+Q4 (12pts): 7
+Q5 (4pts): 3
+
+Raw Total: 35
+Final Total: 42
+
+Comments/Feedback:
+Q3) -1: Missing termination step
+Q4.1.b) -1: Missing base case for a_2 and recursive def.; Q4.1.c) -1: Incorrect base case and recursive def.; Q4.2) -2: Algorithm is not recursive, also missing initial call; Q4.3) -1: Incorrect expansion of A^(n+1)
+Q5.4) DNA
+---------------------------
+---------------------------
+Luna, Paul (zrd239)
+
+Point Breakdown:
+Q1 (10pts): 9
+Q2 (11pts): 9
+Q3 (5pts): 5
+Q4 (12pts): 8
+Q5 (4pts): 4
+
+Raw Total: 35
+Final Total: 42
+
+Comments/Feedback:
+Q1) -1: Missing base case
+Q2.2) -2: Insuffecient odd/even case explanations
+Q4.1.c) -1: Incorrect recursive def.; Q4.2) -1: Incorrect base case return value (off by one);  Q4.3) -2: Missing inductive step
+---------------------------
+---------------------------
+Mekonen, Surafel (bxq764)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 10
+Q3 (5pts): 0
+Q4 (12pts): 10
+Q5 (4pts): 2
+
+Raw Total: 32
+Final Total: 42
+
+Comments/Feedback:
+Q2.1.d) -1: Incomplete explanation
+Q3) DNA
+Q4.1.b) -1: Missing base case for a_1; Q4.2) -1: Incorrect base case return value (off by one)
+Q5.1/.2) DNA
+---------------------------
+---------------------------
+Miller, Tye (wbx430)
+
+Point Breakdown:
+Q1 (10pts): 0
+Q2 (11pts): 3
+Q3 (5pts): 0
+Q4 (12pts): 0
+Q5 (4pts): 3
+
+Raw Total: 6
+Final Total: 6
+
+Comments/Feedback:
+Q1) DNA
+Q2.1.d, Q2.2) DNA
+Q3) DNA
+Q4) DNA
+Q5.4) DNA
+---------------------------
+---------------------------
+Moser, Tyler (jyw620)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 8
+Q3 (5pts): 4
+Q4 (12pts): 7
+Q5 (4pts): 2
+
+Raw Total: 31
+Final Total: 42
+
+Comments/Feedback:
+Q2.1.d) -1: Incorrect expansion of k+1; Q2.2) -2: Missing inductive steps
+Q3) -1: Incorrect termination step (off by one)
+Q4.2) -1: Algorithm is not recursive; Q4.3) DNA
+Q5) -2: Incorrect recursive def., explicit formula
+---------------------------
+---------------------------
+Newcomb, Simon (kuz829)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 11
+Q3 (5pts): 3
+Q4 (12pts): 8
+Q5 (4pts): 4
+
+Raw Total: 36
+Final Total: 42
+
+Comments/Feedback:
+Q3) -2: Incorrect base case, termination step 
+Q4.1.b) -1: Missing base case for a_2; Q4.2) -2: Algorithm is not recursive, missing initial call; Q4.3) -1: Incorrect matrix multiplication
+---------------------------
+---------------------------
+Norman, Bryson (mgf702)
+
+Point Breakdown:
+Q1 (10pts): 9
+Q2 (11pts): 11
+Q3 (5pts): 3
+Q4 (12pts): 11
+Q5 (4pts): 4
+
+Raw Total: 38
+Final Total: 42
+
+Comments/Feedback:
+Q1) -1: Incorrect base case
+Q3) -2: Incorrect base case, termination step 
+Q4.2) -1: Incorrect base case return value (off by one)
+---------------------------
+---------------------------
+Palacios, Yvette (bmk068)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 11
+Q3 (5pts): 4
+Q4 (12pts): 9
+Q5 (4pts): 2
+
+Raw Total: 36
+Final Total: 42
+
+Comments/Feedback:
+Q3) -1: Incorrect termination step (off by two)
+Q4.1.b) -1: Missing base case for a_2; Q4.1.c) -1: Incorrect recursive def.; Q4.2) -1: Algorithm is not recursive
+Q5) -2: Incorrect recursive def., explicit formula
+---------------------------
+---------------------------
+Pech, Richard (gff780)
+
+Point Breakdown:
+Q1 (10pts): 9
+Q2 (11pts): 11
+Q3 (5pts): 4
+Q4 (12pts): 8
+Q5 (4pts): 3
+
+Raw Total: 35
+Final Total: 42
+
+Comments/Feedback:
+Q1) -1: Missing steps in proof
+Q3) -1: Incorrect termination step (off by one)
+Q4.1) -2: Incorrect recursive cases and base cases; Q4.2) -1: Missing initial function call
+Q5.4) -1: Incorrect explicit formula
+---------------------------
+---------------------------
+Peel, Ryan (sdt993)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 9
+Q3 (5pts): 4
+Q4 (12pts): 4
+Q5 (4pts): 0
+
+Raw Total: 27
+Final Total: 42
+
+Comments/Feedback:
+Q2.2) -2: Insuffecient odd/even case explanations
+Q3) -1: Missing base case
+Q4.2/.3, Q5) DNA
+---------------------------
+---------------------------
+Perez, Bianca (ylz155)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 11
+Q3 (5pts): 5
+Q4 (12pts): 10
+Q5 (4pts): 4
+
+Raw Total: 40
+Final Total: 42
+
+Comments/Feedback:
+Q4.1.b) -1: Incorrect recursive def.; Q4.2) -1: Incorrect base case return value
+---------------------------
+---------------------------
+Perez, Cameron (yso443)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 7
+Q3 (5pts): 4
+Q4 (12pts): 9
+Q5 (4pts): 4
+
+Raw Total: 34
+Final Total: 42
+
+Comments/Feedback:
+Q2.1) -2: Proof is incomplete; Q2.2) -2: Insuffecient odd/even case explanations
+Q3) -1: Incorrect termination step (off by one)
+Q4.1.2) -1: Missing base case for a_2; Q4.2) -2: Algorithm is not properly recursive, also missing initial call
+---------------------------
+---------------------------
+Phongsavane, Jaison (tac469)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 6
+Q3 (5pts): 4
+Q4 (12pts): 5
+Q5 (4pts): 1
+
+Raw Total: 26
+Final Total: 42
+
+Comments/Feedback:
+Q2.2) DNA
+Q3) -1: Incorrect termination step (off by one)
+Q4.1) -2: Missing all base cases, recursive defs.; Q4.2) -1: Incorrect base case return value (off by one); Q4.3) DNA
+Q5.3/.4) DNA
+---------------------------
+---------------------------
+Price, Julie (imj447)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 9
+Q3 (5pts): 3
+Q4 (12pts): 5
+Q5 (4pts): 3
+
+Raw Total: 30
+Final Total: 42
+
+Comments/Feedback:
+Q2.2) -2: Insuffecient odd/even case explanations
+Q3) -2: Incomplete proof, also missing termination step
+Q4.1.b) -1: Missing base case a_2; Q4.1.c) -1: Incorrect recursive case; Q4.2) -1: Incorrect base case return value; Q4.3) DNA
+Q5.4) DNA
+---------------------------
+---------------------------
+Quandt, Aidan (sve367)
+
+Point Breakdown:
+Q1 (10pts): 9
+Q2 (11pts): 7
+Q3 (5pts): 2
+Q4 (12pts): 6
+Q5 (4pts): 2
+
+Raw Total: 26
+Final Total: 42
+
+Comments/Feedback:
+Q1) -1: Incorrect set up and inductive proof
+Q2.1.d) -2: Proof is incomplete, also incorrect expansion of k+1; Q2.2) -2: Insuffecient odd/even case explanations
+Q3) -3: Missing base case, termination step, and incomplete proof
+Q4.1) -2: Missing all base cases and recursive defs.; Q4.2) -2: Missing initial call, also algorithm does not work; Q4.3) -2: Incorrect expansion of A^(n+1), incomplete proof
+Q5.3) DNA
+---------------------------
+---------------------------
+Reyes, Elizabeth (crl263)
+
+Point Breakdown:
+Q1 (10pts): 9
+Q2 (11pts): 10
+Q3 (5pts): 3
+Q4 (12pts): 10
+Q5 (4pts): 4
+
+Raw Total: 36
+Final Total: 42
+
+Comments/Feedback:
+Q1) -1: Missing base case
+Q2.1.d) -1: Incomplete explanation
+Q3) -2: Incorrect base case, termination step
+Q4.1.a) -1: Incorrect base case (starts at -7 not -10); Q4.2) -1: Incorrect base case return value (off by one)
+---------------------------
+---------------------------
+Rivera, Ryan (bgw092)
+
+Point Breakdown:
+Q1 (10pts): 9
+Q2 (11pts): 8
+Q3 (5pts): 4
+Q4 (12pts): 9
+Q5 (4pts): 4
+
+Raw Total: 34
+Final Total: 42
+
+Comments/Feedback:
+Q1) -1: Missing base case, incorrect IH substitution
+Q2.1.d) -1: Incomplete explanation; Q2.2) -2: Insuffecient odd/even case explanations
+Q3) -1: Incorrect termination step (off by one)
+Q4.2) -2: Incorrect base case return value (off by one) and missing initial call; Q4.3) -1: Missing base case
+---------------------------
+---------------------------
+Ruthven, Jade (hbr460)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 10
+Q3 (5pts): 2
+Q4 (12pts): 7
+Q5 (4pts): 1
+
+Raw Total: 30
+Final Total: 42
+
+Comments/Feedback:
+Q2.2) -1: Insufficient explanation for even case
+Q3) -3: Incorrect base case, inductive proof, also missing termination step
+Q4.1) -3: Incorrect sequences and recursive defs., missing base cases; Q4.2) -2: Incorrect return values, also missing initial call
+Q5.1) -1: Misunderstood question; Q5.2 - Q5.4) DNA
+---------------------------
+---------------------------
+Serna, Adalberto (xnb569)
+
+Point Breakdown:
+Q1 (10pts): 9
+Q2 (11pts): 11
+Q3 (5pts): 3
+Q4 (12pts): 4
+Q5 (4pts): 4
+
+Raw Total: 31
+Final Total: 42
+
+Comments/Feedback:
+Q1) -1: Incorrect base case
+Q3) -2: Incomplete proof, also missing termination step
+Q4.1/.2) DNA
+---------------------------
+---------------------------
+Sheng, Jeff (bfl821)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 11
+Q3 (5pts): 4
+Q4 (12pts): 12
+Q5 (4pts): 4
+
+Raw Total: 41
+Final Total: 42
+
+Comments/Feedback:
+Q3) -1: Incorrect termination step (off by two)
+---------------------------
+---------------------------
+Smith, Ethan (ddl638)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 9
+Q3 (5pts): 3
+Q4 (12pts): 11
+Q5 (4pts): 0
+
+Raw Total: 33
+Final Total: 42
+
+Comments/Feedback:
+Q2.1.d) -1: Incomplete explanation; Q2.2) -2: Insuffecient even case explanation
+Q3) -2: Incorrect base case, termination step (off by one)
+Q4.2) -1: Incorrect base case return value (off by one)
+Q5) DNA
+---------------------------
+---------------------------
+Stubbs-Guerra, Zorin (nvk015)
+
+Point Breakdown:
+Q1 (10pts): 0
+Q2 (11pts): 0
+Q3 (5pts): 0
+Q4 (12pts): 0
+Q5 (4pts): 0
+
+Raw Total: 0
+Final Total: 0
+
+Comments/Feedback:
+No Submission
+---------------------------
+---------------------------
+Terrazas, Cris (qcf642)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 5
+Q3 (5pts): 3
+Q4 (12pts): 5
+Q5 (4pts): 1
+
+Raw Total: 24
+Final Total: 24
+
+Comments/Feedback:
+Q2.1.d) -1: Incomplete explanation; Q2.2) DNA
+Q3) -2: Incorrect base case, termination step (off by one)
+Q4.1) -2: Missing all base cases and recursive defs.; Q4.2) -1: Missing initial call; Q4.3) DNA
+Q5.1/.2) -1: Double counting strings; Q5.4) DNA
+---------------------------
+---------------------------
+Villarreal, Valeria (epi354)
+
+Point Breakdown:
+Q1 (10pts): 0
+Q2 (11pts): 9
+Q3 (5pts): 3
+Q4 (12pts): 11
+Q5 (4pts): 4
+
+Raw Total: 27
+Final Total: 42
+
+Comments/Feedback:
+Q1) DNA
+Q2.1.d) -1: Incomplete explanation; Q2.2) -2: Insuffecient even case explanation
+Q3) -2: Incorrect base case, termination step (off by one)
+Q4.2) -1: Incorrect base case return value (off by one)
+---------------------------
+---------------------------
+Vo, Tien (qrc637)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 11
+Q3 (5pts): 5
+Q4 (12pts): 11
+Q5 (4pts): 4
+
+Raw Total: 41
+Final Total: 30
+
+Comments/Feedback:
+Q4.2) -1: Missing initial call
+-12pts (30%) 6 minute late deduction
+---------------------------
+---------------------------
+Waibel, Catherine (pwc979)
+
+Point Breakdown:
+Q1 (10pts): 6
+Q2 (11pts): 0
+Q3 (5pts): 0
+Q4 (12pts): 9
+Q5 (4pts): 4
+
+Raw Total: 19
+Final Total: 19
+
+Comments/Feedback:
+Q1) -4: Missing base case, missing IH and inductive step
+Q2) DNA
+Q3) DNA
+Q4.2) -1: Incorrect base case return value (off by one); Q4.3) -2: Proof is incomplete
+---------------------------
+---------------------------
+White, Alejandro (ptk406)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 6
+Q3 (5pts): 5
+Q4 (12pts): 6
+Q5 (4pts): 3
+
+Raw Total: 30
+Final Total: 42
+
+Comments/Feedback:
+Q2.2) DNA
+Q4.1.b) -1: Missing recursive case; Q4.1.c) -1: Incorrect recursive case; Q4.3) DNA
+Q5.4) -1: Incorrect explicit formula
+---------------------------
+---------------------------
+Wilson, Aaron (rqg277)
+
+Point Breakdown:
+Q1 (10pts): 10
+Q2 (11pts): 6
+Q3 (5pts): 5
+Q4 (12pts): 6
+Q5 (4pts): 3
+
+Raw Total: 30
+Final Total: 42
+
+Comments/Feedback:
+Q2.2) DNA
+Q4.1.b) -1: Missing recursive case; Q4.1.c) -1: Incorrect recursive case; Q4.3) DNA
+Q5.4) -1: Incorrect explicit formula
+---------------------------
+---------------------------
+Zunker-Bedford, Kade (bvi823)
+
+Point Breakdown:
+Q1 (10pts): 9
+Q2 (11pts): 11
+Q3 (5pts): 3
+Q4 (12pts): 3
+Q5 (4pts): 0
+
+Raw Total: 26
+Final Total: 42
+
+Comments/Feedback:
+Q1) -1: Not an inductive proof
+Q3) -2: Incorrect base case, termination step (off by one)
+Q4.2) -1: Missing initial call; Q4.1, Q4.3) DNA
+Q5) DNA
+---------------------------
